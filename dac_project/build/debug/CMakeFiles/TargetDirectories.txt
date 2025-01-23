@@ -1,3 +1,0 @@
-C:/Users/doroz/Desktop/dac_project/build/debug/CMakeFiles/dac_project.dir
-C:/Users/doroz/Desktop/dac_project/build/debug/CMakeFiles/edit_cache.dir
-C:/Users/doroz/Desktop/dac_project/build/debug/CMakeFiles/rebuild_cache.dir

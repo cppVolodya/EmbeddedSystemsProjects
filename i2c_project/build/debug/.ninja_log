@@ -1,7 +1,0 @@
-# ninja log v6
-3	46	7502978384447310	CMakeFiles/i2c_project.dir/libraries/startup_stm32f103c8tx.s.obj	3a4daeecd9d999b8
-19	162	7502978384606890	CMakeFiles/i2c_project.dir/libraries/system_library/sysmem.c.obj	602fb4f42db44470
-13	202	7502978384547066	CMakeFiles/i2c_project.dir/libraries/system_library/syscalls.c.obj	c6f984e1b30e33d1
-24	282	7502978384666727	CMakeFiles/i2c_project.dir/libraries/main_library/system_stm32f1xx.c.obj	4c299cb3a8b4c495
-8	321	7502978384507170	CMakeFiles/i2c_project.dir/main.c.obj	1eb8c0fed3d9b98c
-321	485	7502978387638772	i2c_project.elf	ee35b92e497b07cf

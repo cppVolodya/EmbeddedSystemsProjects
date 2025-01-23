@@ -1,3 +1,0 @@
-C:/Users/doroz/Desktop/spi_project/build/release/CMakeFiles/spi_project.dir
-C:/Users/doroz/Desktop/spi_project/build/release/CMakeFiles/edit_cache.dir
-C:/Users/doroz/Desktop/spi_project/build/release/CMakeFiles/rebuild_cache.dir

@@ -1,7 +1,0 @@
-# ninja log v6
-4	40	7501783849187089	CMakeFiles/uart_project.dir/libraries/startup_stm32f103c8tx.s.obj	9a8dd7ecc5865ee7
-20	130	7501783849346665	CMakeFiles/uart_project.dir/libraries/system_library/sysmem.c.obj	92cacc36ac4490bf
-14	155	7501783849286826	CMakeFiles/uart_project.dir/libraries/system_library/syscalls.c.obj	954872413a2e82eb
-26	230	7501783849406506	CMakeFiles/uart_project.dir/libraries/main_library/system_stm32f1xx.c.obj	eecbe9b267086629
-10	242	7501783849246929	CMakeFiles/uart_project.dir/main.c.obj	d508157d169cc75d
-242	390	7501783851570729	uart_project.elf	9115f7cf736f11fd

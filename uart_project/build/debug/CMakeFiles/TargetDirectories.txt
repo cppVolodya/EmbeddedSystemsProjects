@@ -1,3 +1,0 @@
-C:/Users/doroz/Desktop/uart_project/build/debug/CMakeFiles/uart_project.dir
-C:/Users/doroz/Desktop/uart_project/build/debug/CMakeFiles/edit_cache.dir
-C:/Users/doroz/Desktop/uart_project/build/debug/CMakeFiles/rebuild_cache.dir
