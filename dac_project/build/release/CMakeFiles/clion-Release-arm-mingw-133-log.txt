@@ -1,0 +1,24 @@
+"D:\programs\CLion 2024.1.4\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Release "-DCMAKE_MAKE_PROGRAM=D:/programs/CLion 2024.1.4/bin/ninja/win/x64/ninja.exe" -DCMAKE_C_COMPILER=D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/arm-none-eabi-gcc.exe -DCMAKE_CXX_COMPILER=D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/arm-none-eabi-g++.exe -G Ninja -S C:\Users\doroz\Desktop\dac_project -B C:\Users\doroz\Desktop\dac_project\build\release
+-- The C compiler identification is GNU 13.3.1
+-- The CXX compiler identification is GNU 13.3.1
+System is unknown to cmake, create:
+Platform/STM32F401RE_CORTEX_M4 to use this system, please post your config file on discourse.cmake.org so it can be added to cmake
+-- Detecting C compiler ABI info
+System is unknown to cmake, create:
+Platform/STM32F401RE_CORTEX_M4 to use this system, please post your config file on discourse.cmake.org so it can be added to cmake
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/arm-none-eabi-gcc.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+System is unknown to cmake, create:
+Platform/STM32F401RE_CORTEX_M4 to use this system, please post your config file on discourse.cmake.org so it can be added to cmake
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/arm-none-eabi-g++.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- The ASM compiler identification is GNU
+-- Found assembler: D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/arm-none-eabi-gcc.exe
+-- Configuring done (2.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: C:/Users/doroz/Desktop/dac_project/build/release

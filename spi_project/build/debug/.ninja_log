@@ -1,0 +1,7 @@
+# ninja log v6
+4	46	7502825226147058	CMakeFiles/spi_project.dir/libraries/startup_stm32f103c8tx.s.obj	38f2002681179ad5
+19	170	7502825226296644	CMakeFiles/spi_project.dir/libraries/system_library/sysmem.c.obj	bfe5625bf4b359a3
+14	195	7502825226256746	CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj	f4f86f45e7b6c812
+25	293	7502825226356463	CMakeFiles/spi_project.dir/libraries/main_library/system_stm32f1xx.c.obj	357ae33a24e0e192
+10	345	7502825226206872	CMakeFiles/spi_project.dir/main.c.obj	f584ce3c66ccd5e8
+345	494	7502825229561849	spi_project.elf	a56706c3800853cc

@@ -1,0 +1,3 @@
+D:/data/direction_in_my_life/information_technology/c_embedded/studying/min_working_projects/i2c_project/build/debug/CMakeFiles/i2c_project.dir
+D:/data/direction_in_my_life/information_technology/c_embedded/studying/min_working_projects/i2c_project/build/debug/CMakeFiles/edit_cache.dir
+D:/data/direction_in_my_life/information_technology/c_embedded/studying/min_working_projects/i2c_project/build/debug/CMakeFiles/rebuild_cache.dir

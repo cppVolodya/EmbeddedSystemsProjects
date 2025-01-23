@@ -1,0 +1,15 @@
+C:/Users/doroz/Desktop/dac_project/main.c:7:5:main	16	static
+C:/Users/doroz/Desktop/dac_project/main.c:29:6:Delay	24	static
+C:/Users/doroz/Desktop/dac_project/main.c:38:6:EnableClocking	4	static
+C:/Users/doroz/Desktop/dac_project/main.c:45:6:GpioInit	4	static
+C:/Users/doroz/Desktop/dac_project/main.c:59:6:I2cInit	8	static
+C:/Users/doroz/Desktop/dac_project/main.c:72:9:I2cScan	16	static
+C:/Users/doroz/Desktop/dac_project/main.c:90:6:I2cStart	4	static
+C:/Users/doroz/Desktop/dac_project/main.c:99:6:I2cStop	4	static
+C:/Users/doroz/Desktop/dac_project/main.c:104:6:I2cResetAddrFlag	4	static
+C:/Users/doroz/Desktop/dac_project/main.c:110:6:I2cIsAck	4	static
+C:/Users/doroz/Desktop/dac_project/main.c:121:9:I2cSendAddress	16	static
+C:/Users/doroz/Desktop/dac_project/main.c:129:6:I2cWriteData	16	static
+C:/Users/doroz/Desktop/dac_project/main.c:138:9:I2cReadData	4	static
+C:/Users/doroz/Desktop/dac_project/main.c:145:6:DacSetVoltage	24	static
+C:/Users/doroz/Desktop/dac_project/main.c:151:6:MCP4725SetValue	24	static

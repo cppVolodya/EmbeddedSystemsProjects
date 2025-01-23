@@ -1,0 +1,1039 @@
+Archive member included to satisfy reference by file (symbol)
+
+D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-exit.o)
+                              D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crt0.o (exit)
+D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-findfp.o)
+                              D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-exit.o) (__stdio_exit_handler)
+D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-fwalk.o)
+                              D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-findfp.o) (_fwalk_sglue)
+D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-stdio.o)
+                              D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-findfp.o) (__sread)
+D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-memset.o)
+                              D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crt0.o (memset)
+D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-closer.o)
+                              D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-stdio.o) (_close_r)
+D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-reent.o)
+                              D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-closer.o) (errno)
+D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-impure.o)
+                              D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-reent.o) (_impure_ptr)
+D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-lseekr.o)
+                              D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-stdio.o) (_lseek_r)
+D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-readr.o)
+                              D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-stdio.o) (_read_r)
+D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-writer.o)
+                              D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-stdio.o) (_write_r)
+D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-init.o)
+                              D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crt0.o (__libc_init_array)
+D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-lock.o)
+                              D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-findfp.o) (__retarget_lock_init_recursive)
+D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-freer.o)
+                              D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-reent.o) (_free_r)
+D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-mallocr.o)
+                              D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-findfp.o) (_malloc_r)
+D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-mlock.o)
+                              D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-freer.o) (__malloc_lock)
+D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-fflush.o)
+                              D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-findfp.o) (_fflush_r)
+D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-sbrkr.o)
+                              D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-mallocr.o) (_sbrk_r)
+D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-errno.o)
+                              CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj (__errno)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crti.o
+ .data          0x00000000        0x0 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crti.o
+ .bss           0x00000000        0x0 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crti.o
+ .text          0x00000000        0x0 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtbegin.o
+ .data          0x00000000        0x0 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtbegin.o
+ .bss           0x00000000        0x0 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtbegin.o
+ .rodata.all_implied_fbits
+                0x00000000       0x24 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtbegin.o
+ .data.__dso_handle
+                0x00000000        0x4 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtbegin.o
+ .text          0x00000000       0x7c D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crt0.o
+ .data          0x00000000        0x0 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crt0.o
+ .bss           0x00000000        0x0 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crt0.o
+ .ARM.extab     0x00000000        0x0 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crt0.o
+ .ARM.exidx     0x00000000       0x10 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crt0.o
+ .debug_line_str
+                0x00000000       0xd3 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crt0.o
+ .ARM.attributes
+                0x00000000       0x1c D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crt0.o
+ .text          0x00000000        0x0 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-exit.o)
+ .data          0x00000000        0x0 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-exit.o)
+ .bss           0x00000000        0x0 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-exit.o)
+ .text.exit     0x00000000       0x24 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-exit.o)
+ .debug_frame   0x00000000       0x28 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-exit.o)
+ .ARM.attributes
+                0x00000000       0x2e D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-exit.o)
+ .text          0x00000000        0x0 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-findfp.o)
+ .data          0x00000000        0x0 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-findfp.o)
+ .bss           0x00000000        0x0 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-findfp.o)
+ .text.std      0x00000000       0x6c D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-findfp.o)
+ .text.stdio_exit_handler
+                0x00000000       0x18 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-findfp.o)
+ .text.cleanup_stdio
+                0x00000000       0x40 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-findfp.o)
+ .text.__fp_lock
+                0x00000000       0x18 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-findfp.o)
+ .text.__fp_unlock
+                0x00000000       0x18 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-findfp.o)
+ .text.global_stdio_init.part.0
+                0x00000000       0x3c D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-findfp.o)
+ .text.__sfp_lock_acquire
+                0x00000000        0xc D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-findfp.o)
+ .text.__sfp_lock_release
+                0x00000000        0xc D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-findfp.o)
+ .text.__sfp    0x00000000       0xa4 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-findfp.o)
+ .text.__sinit  0x00000000       0x30 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-findfp.o)
+ .text.__fp_lock_all
+                0x00000000       0x1c D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-findfp.o)
+ .text.__fp_unlock_all
+                0x00000000       0x1c D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-findfp.o)
+ .data.__sglue  0x00000000        0xc D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-findfp.o)
+ .bss.__sf      0x00000000      0x138 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-findfp.o)
+ .bss.__stdio_exit_handler
+                0x00000000        0x4 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-findfp.o)
+ .debug_frame   0x00000000      0x144 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-findfp.o)
+ .ARM.attributes
+                0x00000000       0x2e D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-findfp.o)
+ .text          0x00000000        0x0 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-fwalk.o)
+ .data          0x00000000        0x0 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-fwalk.o)
+ .bss           0x00000000        0x0 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-fwalk.o)
+ .text._fwalk_sglue
+                0x00000000       0x3c D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-fwalk.o)
+ .debug_frame   0x00000000       0x34 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-fwalk.o)
+ .ARM.attributes
+                0x00000000       0x2e D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-fwalk.o)
+ .text          0x00000000        0x0 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-stdio.o)
+ .data          0x00000000        0x0 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-stdio.o)
+ .bss           0x00000000        0x0 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-stdio.o)
+ .text.__sread  0x00000000       0x22 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-stdio.o)
+ .text.__seofread
+                0x00000000        0x4 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-stdio.o)
+ .text.__swrite
+                0x00000000       0x38 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-stdio.o)
+ .text.__sseek  0x00000000       0x24 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-stdio.o)
+ .text.__sclose
+                0x00000000        0x8 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-stdio.o)
+ .debug_frame   0x00000000       0x88 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-stdio.o)
+ .ARM.attributes
+                0x00000000       0x2e D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-stdio.o)
+ .text          0x00000000        0x0 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-memset.o)
+ .data          0x00000000        0x0 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-memset.o)
+ .bss           0x00000000        0x0 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-memset.o)
+ .text.memset   0x00000000       0x10 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-memset.o)
+ .debug_frame   0x00000000       0x20 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-memset.o)
+ .ARM.attributes
+                0x00000000       0x2e D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-memset.o)
+ .text          0x00000000        0x0 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-closer.o)
+ .data          0x00000000        0x0 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-closer.o)
+ .bss           0x00000000        0x0 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-closer.o)
+ .text._close_r
+                0x00000000       0x20 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-closer.o)
+ .debug_frame   0x00000000       0x2c D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-closer.o)
+ .ARM.attributes
+                0x00000000       0x2e D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-closer.o)
+ .text          0x00000000        0x0 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-reent.o)
+ .data          0x00000000        0x0 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-reent.o)
+ .bss           0x00000000        0x0 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-reent.o)
+ .text._reclaim_reent
+                0x00000000       0xbc D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-reent.o)
+ .bss.errno     0x00000000        0x4 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-reent.o)
+ .debug_frame   0x00000000       0x38 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-reent.o)
+ .ARM.attributes
+                0x00000000       0x2e D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-reent.o)
+ .text          0x00000000        0x0 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-impure.o)
+ .data          0x00000000        0x0 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-impure.o)
+ .bss           0x00000000        0x0 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-impure.o)
+ .data._impure_data
+                0x00000000       0x4c D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-impure.o)
+ .ARM.attributes
+                0x00000000       0x2e D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-impure.o)
+ .text          0x00000000        0x0 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-lseekr.o)
+ .data          0x00000000        0x0 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-lseekr.o)
+ .bss           0x00000000        0x0 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-lseekr.o)
+ .text._lseek_r
+                0x00000000       0x24 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-lseekr.o)
+ .debug_frame   0x00000000       0x2c D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-lseekr.o)
+ .ARM.attributes
+                0x00000000       0x2e D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-lseekr.o)
+ .text          0x00000000        0x0 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-readr.o)
+ .data          0x00000000        0x0 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-readr.o)
+ .bss           0x00000000        0x0 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-readr.o)
+ .text._read_r  0x00000000       0x24 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-readr.o)
+ .debug_frame   0x00000000       0x2c D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-readr.o)
+ .ARM.attributes
+                0x00000000       0x2e D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-readr.o)
+ .text          0x00000000        0x0 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-writer.o)
+ .data          0x00000000        0x0 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-writer.o)
+ .bss           0x00000000        0x0 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-writer.o)
+ .text._write_r
+                0x00000000       0x24 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-writer.o)
+ .debug_frame   0x00000000       0x2c D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-writer.o)
+ .ARM.attributes
+                0x00000000       0x2e D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-writer.o)
+ .text          0x00000000        0x0 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-init.o)
+ .data          0x00000000        0x0 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-init.o)
+ .bss           0x00000000        0x0 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-init.o)
+ .text          0x00000000        0x0 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-lock.o)
+ .data          0x00000000        0x0 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-lock.o)
+ .bss           0x00000000        0x0 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_init
+                0x00000000        0x2 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_init_recursive
+                0x00000000        0x2 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_close
+                0x00000000        0x2 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_close_recursive
+                0x00000000        0x2 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_acquire
+                0x00000000        0x2 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_acquire_recursive
+                0x00000000        0x2 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_try_acquire
+                0x00000000        0x4 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_try_acquire_recursive
+                0x00000000        0x4 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_release
+                0x00000000        0x2 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_release_recursive
+                0x00000000        0x2 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-lock.o)
+ .bss.__lock___arc4random_mutex
+                0x00000000        0x1 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-lock.o)
+ .bss.__lock___dd_hash_mutex
+                0x00000000        0x1 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-lock.o)
+ .bss.__lock___tz_mutex
+                0x00000000        0x1 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-lock.o)
+ .bss.__lock___env_recursive_mutex
+                0x00000000        0x1 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-lock.o)
+ .bss.__lock___malloc_recursive_mutex
+                0x00000000        0x1 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-lock.o)
+ .bss.__lock___at_quick_exit_mutex
+                0x00000000        0x1 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-lock.o)
+ .bss.__lock___atexit_recursive_mutex
+                0x00000000        0x1 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-lock.o)
+ .bss.__lock___sfp_recursive_mutex
+                0x00000000        0x1 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-lock.o)
+ .debug_frame   0x00000000       0xb0 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-lock.o)
+ .ARM.attributes
+                0x00000000       0x2e D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-lock.o)
+ .text          0x00000000        0x0 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-freer.o)
+ .data          0x00000000        0x0 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-freer.o)
+ .bss           0x00000000        0x0 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-freer.o)
+ .text._free_r  0x00000000       0x94 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-freer.o)
+ .debug_frame   0x00000000       0x38 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-freer.o)
+ .ARM.attributes
+                0x00000000       0x2e D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-freer.o)
+ .text          0x00000000        0x0 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-mallocr.o)
+ .data          0x00000000        0x0 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-mallocr.o)
+ .bss           0x00000000        0x0 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-mallocr.o)
+ .text.sbrk_aligned
+                0x00000000       0x44 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-mallocr.o)
+ .text._malloc_r
+                0x00000000      0x100 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-mallocr.o)
+ .bss.__malloc_sbrk_start
+                0x00000000        0x4 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-mallocr.o)
+ .bss.__malloc_free_list
+                0x00000000        0x4 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-mallocr.o)
+ .debug_frame   0x00000000       0x50 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-mallocr.o)
+ .ARM.attributes
+                0x00000000       0x2e D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-mallocr.o)
+ .text          0x00000000        0x0 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-mlock.o)
+ .data          0x00000000        0x0 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-mlock.o)
+ .bss           0x00000000        0x0 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-mlock.o)
+ .text.__malloc_lock
+                0x00000000        0xc D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-mlock.o)
+ .text.__malloc_unlock
+                0x00000000        0xc D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-mlock.o)
+ .debug_frame   0x00000000       0x30 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-mlock.o)
+ .ARM.attributes
+                0x00000000       0x2e D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-mlock.o)
+ .text          0x00000000        0x0 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-fflush.o)
+ .data          0x00000000        0x0 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-fflush.o)
+ .bss           0x00000000        0x0 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-fflush.o)
+ .text.__sflush_r
+                0x00000000      0x100 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-fflush.o)
+ .text._fflush_r
+                0x00000000       0x50 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-fflush.o)
+ .text.fflush   0x00000000       0x28 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-fflush.o)
+ .debug_frame   0x00000000       0x5c D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-fflush.o)
+ .ARM.attributes
+                0x00000000       0x2e D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-fflush.o)
+ .text          0x00000000        0x0 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-sbrkr.o)
+ .data          0x00000000        0x0 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-sbrkr.o)
+ .bss           0x00000000        0x0 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-sbrkr.o)
+ .text._sbrk_r  0x00000000       0x20 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-sbrkr.o)
+ .debug_frame   0x00000000       0x2c D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-sbrkr.o)
+ .ARM.attributes
+                0x00000000       0x2e D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-sbrkr.o)
+ .text          0x00000000       0x14 CMakeFiles/spi_project.dir/libraries/startup_stm32f103c8tx.s.obj
+ .data          0x00000000        0x0 CMakeFiles/spi_project.dir/libraries/startup_stm32f103c8tx.s.obj
+ .bss           0x00000000        0x0 CMakeFiles/spi_project.dir/libraries/startup_stm32f103c8tx.s.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/main.c.obj
+ .text          0x00000000        0x0 CMakeFiles/spi_project.dir/main.c.obj
+ .data          0x00000000        0x0 CMakeFiles/spi_project.dir/main.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/spi_project.dir/main.c.obj
+ .text.SpiDisable
+                0x00000000       0x1c CMakeFiles/spi_project.dir/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .text          0x00000000        0x0 CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .data          0x00000000        0x0 CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .bss.__env     0x00000000        0x4 CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .data.environ  0x00000000        0x4 CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .text.initialise_monitor_handles
+                0x00000000        0xc CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .text._getpid  0x00000000        0xe CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .text._kill    0x00000000       0x20 CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .text._exit    0x00000000       0x16 CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .text._read    0x00000000       0x3a CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .text._write   0x00000000       0x38 CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .text._close   0x00000000       0x16 CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .text._fstat   0x00000000       0x1e CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .text._isatty  0x00000000       0x14 CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .text._lseek   0x00000000       0x18 CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .text._open    0x00000000       0x1a CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .text._wait    0x00000000       0x1e CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .text._unlink  0x00000000       0x1e CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .text._times   0x00000000       0x16 CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .text._stat    0x00000000       0x1e CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .text._link    0x00000000       0x20 CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .text._fork    0x00000000       0x16 CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .text._execve  0x00000000       0x22 CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .debug_info    0x00000000      0x6a3 CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .debug_abbrev  0x00000000      0x1b6 CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .debug_aranges
+                0x00000000       0xa8 CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .debug_rnglists
+                0x00000000       0x79 CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .debug_macro   0x00000000      0x274 CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .debug_macro   0x00000000      0xacc CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .debug_macro   0x00000000       0x22 CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .debug_macro   0x00000000       0x5b CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .debug_macro   0x00000000       0x24 CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .debug_macro   0x00000000       0x94 CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .debug_macro   0x00000000       0x43 CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .debug_macro   0x00000000       0x34 CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .debug_macro   0x00000000       0x57 CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .debug_macro   0x00000000      0x190 CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .debug_macro   0x00000000      0x370 CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .debug_macro   0x00000000       0x16 CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .debug_macro   0x00000000       0x4a CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .debug_macro   0x00000000       0x34 CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .debug_macro   0x00000000       0x10 CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .debug_macro   0x00000000       0x58 CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .debug_macro   0x00000000       0x8e CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .debug_macro   0x00000000       0x1c CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .debug_macro   0x00000000      0x185 CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .debug_macro   0x00000000       0x10 CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .debug_macro   0x00000000       0x3c CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .debug_macro   0x00000000       0x10 CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .debug_macro   0x00000000       0x10 CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .debug_macro   0x00000000       0x10 CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .debug_macro   0x00000000       0x6a CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .debug_macro   0x00000000       0x1c CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .debug_macro   0x00000000       0x52 CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .debug_macro   0x00000000       0x22 CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .debug_macro   0x00000000       0x10 CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .debug_macro   0x00000000       0x52 CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .debug_macro   0x00000000       0xcf CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .debug_macro   0x00000000       0x1c CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .debug_macro   0x00000000       0x3d CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .debug_macro   0x00000000       0x35 CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .debug_macro   0x00000000      0x12c CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .debug_macro   0x00000000       0x16 CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .debug_macro   0x00000000       0x16 CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .debug_macro   0x00000000       0x29 CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .debug_macro   0x00000000       0x10 CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .debug_macro   0x00000000      0x242 CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .debug_macro   0x00000000       0x1c CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .debug_macro   0x00000000       0x10 CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .debug_macro   0x00000000       0x10 CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .debug_macro   0x00000000       0x16 CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .debug_macro   0x00000000      0x146 CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .debug_macro   0x00000000      0x103 CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .debug_macro   0x00000000      0x1df CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .debug_macro   0x00000000      0x18a CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .debug_macro   0x00000000       0x16 CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .debug_macro   0x00000000       0xce CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .debug_line    0x00000000      0x730 CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .debug_str     0x00000000     0x99b9 CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .comment       0x00000000       0x46 CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .debug_frame   0x00000000      0x2ac CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .ARM.attributes
+                0x00000000       0x2e CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/system_library/sysmem.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/system_library/sysmem.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/system_library/sysmem.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/system_library/sysmem.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/system_library/sysmem.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/system_library/sysmem.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/system_library/sysmem.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/system_library/sysmem.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/system_library/sysmem.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/system_library/sysmem.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/system_library/sysmem.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/system_library/sysmem.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/system_library/sysmem.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/system_library/sysmem.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/system_library/sysmem.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/system_library/sysmem.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/system_library/sysmem.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/system_library/sysmem.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/system_library/sysmem.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/system_library/sysmem.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/system_library/sysmem.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/system_library/sysmem.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/system_library/sysmem.c.obj
+ .text          0x00000000        0x0 CMakeFiles/spi_project.dir/libraries/system_library/sysmem.c.obj
+ .data          0x00000000        0x0 CMakeFiles/spi_project.dir/libraries/system_library/sysmem.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/spi_project.dir/libraries/system_library/sysmem.c.obj
+ .bss.__sbrk_heap_end
+                0x00000000        0x4 CMakeFiles/spi_project.dir/libraries/system_library/sysmem.c.obj
+ .text._sbrk    0x00000000       0x6c CMakeFiles/spi_project.dir/libraries/system_library/sysmem.c.obj
+ .debug_info    0x00000000      0x168 CMakeFiles/spi_project.dir/libraries/system_library/sysmem.c.obj
+ .debug_abbrev  0x00000000       0xbc CMakeFiles/spi_project.dir/libraries/system_library/sysmem.c.obj
+ .debug_aranges
+                0x00000000       0x20 CMakeFiles/spi_project.dir/libraries/system_library/sysmem.c.obj
+ .debug_rnglists
+                0x00000000       0x13 CMakeFiles/spi_project.dir/libraries/system_library/sysmem.c.obj
+ .debug_macro   0x00000000      0x112 CMakeFiles/spi_project.dir/libraries/system_library/sysmem.c.obj
+ .debug_macro   0x00000000      0xacc CMakeFiles/spi_project.dir/libraries/system_library/sysmem.c.obj
+ .debug_macro   0x00000000       0x10 CMakeFiles/spi_project.dir/libraries/system_library/sysmem.c.obj
+ .debug_macro   0x00000000       0x22 CMakeFiles/spi_project.dir/libraries/system_library/sysmem.c.obj
+ .debug_macro   0x00000000       0x5b CMakeFiles/spi_project.dir/libraries/system_library/sysmem.c.obj
+ .debug_macro   0x00000000       0x24 CMakeFiles/spi_project.dir/libraries/system_library/sysmem.c.obj
+ .debug_macro   0x00000000       0x94 CMakeFiles/spi_project.dir/libraries/system_library/sysmem.c.obj
+ .debug_macro   0x00000000       0x43 CMakeFiles/spi_project.dir/libraries/system_library/sysmem.c.obj
+ .debug_macro   0x00000000       0x34 CMakeFiles/spi_project.dir/libraries/system_library/sysmem.c.obj
+ .debug_macro   0x00000000      0x190 CMakeFiles/spi_project.dir/libraries/system_library/sysmem.c.obj
+ .debug_macro   0x00000000       0x57 CMakeFiles/spi_project.dir/libraries/system_library/sysmem.c.obj
+ .debug_macro   0x00000000      0x370 CMakeFiles/spi_project.dir/libraries/system_library/sysmem.c.obj
+ .debug_macro   0x00000000       0x16 CMakeFiles/spi_project.dir/libraries/system_library/sysmem.c.obj
+ .debug_macro   0x00000000       0x4a CMakeFiles/spi_project.dir/libraries/system_library/sysmem.c.obj
+ .debug_macro   0x00000000       0x34 CMakeFiles/spi_project.dir/libraries/system_library/sysmem.c.obj
+ .debug_macro   0x00000000       0x10 CMakeFiles/spi_project.dir/libraries/system_library/sysmem.c.obj
+ .debug_macro   0x00000000       0x58 CMakeFiles/spi_project.dir/libraries/system_library/sysmem.c.obj
+ .debug_macro   0x00000000       0x8e CMakeFiles/spi_project.dir/libraries/system_library/sysmem.c.obj
+ .debug_macro   0x00000000       0x1c CMakeFiles/spi_project.dir/libraries/system_library/sysmem.c.obj
+ .debug_macro   0x00000000      0x185 CMakeFiles/spi_project.dir/libraries/system_library/sysmem.c.obj
+ .debug_macro   0x00000000      0x23c CMakeFiles/spi_project.dir/libraries/system_library/sysmem.c.obj
+ .debug_macro   0x00000000      0x103 CMakeFiles/spi_project.dir/libraries/system_library/sysmem.c.obj
+ .debug_macro   0x00000000       0x6a CMakeFiles/spi_project.dir/libraries/system_library/sysmem.c.obj
+ .debug_macro   0x00000000      0x1df CMakeFiles/spi_project.dir/libraries/system_library/sysmem.c.obj
+ .debug_line    0x00000000      0x40c CMakeFiles/spi_project.dir/libraries/system_library/sysmem.c.obj
+ .debug_str     0x00000000     0x7757 CMakeFiles/spi_project.dir/libraries/system_library/sysmem.c.obj
+ .comment       0x00000000       0x46 CMakeFiles/spi_project.dir/libraries/system_library/sysmem.c.obj
+ .debug_frame   0x00000000       0x34 CMakeFiles/spi_project.dir/libraries/system_library/sysmem.c.obj
+ .ARM.attributes
+                0x00000000       0x2e CMakeFiles/spi_project.dir/libraries/system_library/sysmem.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/main_library/system_stm32f1xx.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/main_library/system_stm32f1xx.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/main_library/system_stm32f1xx.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/main_library/system_stm32f1xx.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/main_library/system_stm32f1xx.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/main_library/system_stm32f1xx.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/main_library/system_stm32f1xx.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/main_library/system_stm32f1xx.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/main_library/system_stm32f1xx.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/main_library/system_stm32f1xx.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/main_library/system_stm32f1xx.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/main_library/system_stm32f1xx.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/main_library/system_stm32f1xx.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/main_library/system_stm32f1xx.c.obj
+ .group         0x00000000        0xc CMakeFiles/spi_project.dir/libraries/main_library/system_stm32f1xx.c.obj
+ .text          0x00000000        0x0 CMakeFiles/spi_project.dir/libraries/main_library/system_stm32f1xx.c.obj
+ .data          0x00000000        0x0 CMakeFiles/spi_project.dir/libraries/main_library/system_stm32f1xx.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/spi_project.dir/libraries/main_library/system_stm32f1xx.c.obj
+ .data.SystemCoreClock
+                0x00000000        0x4 CMakeFiles/spi_project.dir/libraries/main_library/system_stm32f1xx.c.obj
+ .rodata.AHBPrescTable
+                0x00000000       0x10 CMakeFiles/spi_project.dir/libraries/main_library/system_stm32f1xx.c.obj
+ .rodata.APBPrescTable
+                0x00000000        0x8 CMakeFiles/spi_project.dir/libraries/main_library/system_stm32f1xx.c.obj
+ .text.SystemCoreClockUpdate
+                0x00000000       0xe4 CMakeFiles/spi_project.dir/libraries/main_library/system_stm32f1xx.c.obj
+ .debug_macro   0x00000000      0xacc CMakeFiles/spi_project.dir/libraries/main_library/system_stm32f1xx.c.obj
+ .debug_macro   0x00000000       0x22 CMakeFiles/spi_project.dir/libraries/main_library/system_stm32f1xx.c.obj
+ .debug_macro   0x00000000       0x22 CMakeFiles/spi_project.dir/libraries/main_library/system_stm32f1xx.c.obj
+ .debug_macro   0x00000000      0x103 CMakeFiles/spi_project.dir/libraries/main_library/system_stm32f1xx.c.obj
+ .debug_macro   0x00000000       0x6a CMakeFiles/spi_project.dir/libraries/main_library/system_stm32f1xx.c.obj
+ .debug_macro   0x00000000      0x1df CMakeFiles/spi_project.dir/libraries/main_library/system_stm32f1xx.c.obj
+ .debug_macro   0x00000000       0x1c CMakeFiles/spi_project.dir/libraries/main_library/system_stm32f1xx.c.obj
+ .debug_macro   0x00000000       0x22 CMakeFiles/spi_project.dir/libraries/main_library/system_stm32f1xx.c.obj
+ .debug_macro   0x00000000       0xfb CMakeFiles/spi_project.dir/libraries/main_library/system_stm32f1xx.c.obj
+ .debug_macro   0x00000000      0xd23 CMakeFiles/spi_project.dir/libraries/main_library/system_stm32f1xx.c.obj
+ .debug_macro   0x00000000     0xe09e CMakeFiles/spi_project.dir/libraries/main_library/system_stm32f1xx.c.obj
+ .text          0x00000000        0x0 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-errno.o)
+ .data          0x00000000        0x0 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-errno.o)
+ .bss           0x00000000        0x0 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-errno.o)
+ .text.__errno  0x00000000        0xc D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-errno.o)
+ .debug_frame   0x00000000       0x20 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-errno.o)
+ .ARM.attributes
+                0x00000000       0x2e D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-errno.o)
+ .text          0x00000000        0x0 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtend.o
+ .data          0x00000000        0x0 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtend.o
+ .bss           0x00000000        0x0 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtend.o
+ .rodata.all_implied_fbits
+                0x00000000       0x24 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtend.o
+ .eh_frame      0x00000000        0x4 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtend.o
+ .text          0x00000000        0x0 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtn.o
+ .data          0x00000000        0x0 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtn.o
+ .bss           0x00000000        0x0 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+RAM              0x20000000         0x00005000         xrw
+FLASH            0x08000000         0x00010000         xr
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crti.o
+LOAD D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtbegin.o
+LOAD D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crt0.o
+START GROUP
+LOAD D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a
+LOAD D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libm.a
+LOAD D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libstdc++_nano.a
+LOAD D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libsupc++_nano.a
+END GROUP
+LOAD CMakeFiles/spi_project.dir/libraries/startup_stm32f103c8tx.s.obj
+LOAD CMakeFiles/spi_project.dir/main.c.obj
+LOAD CMakeFiles/spi_project.dir/libraries/system_library/syscalls.c.obj
+LOAD CMakeFiles/spi_project.dir/libraries/system_library/sysmem.c.obj
+LOAD CMakeFiles/spi_project.dir/libraries/main_library/system_stm32f1xx.c.obj
+START GROUP
+LOAD D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a
+LOAD D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg_nano.a
+LOAD D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a
+END GROUP
+START GROUP
+LOAD D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a
+LOAD D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a
+LOAD D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libnosys.a
+END GROUP
+START GROUP
+LOAD D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a
+LOAD D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a
+LOAD D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libnosys.a
+END GROUP
+LOAD D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtend.o
+LOAD D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtn.o
+                0x20005000                        _estack = (ORIGIN (RAM) + LENGTH (RAM))
+                0x00000200                        _Min_Heap_Size = 0x200
+                0x00000400                        _Min_Stack_Size = 0x400
+
+.isr_vector     0x08000000      0x10c
+                0x08000000                        . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x08000000      0x10c CMakeFiles/spi_project.dir/libraries/startup_stm32f103c8tx.s.obj
+                0x08000000                g_pfnVectors
+                0x0800010c                        . = ALIGN (0x4)
+
+.text           0x0800010c      0xcd8
+                0x0800010c                        . = ALIGN (0x4)
+ *(.text)
+ *(.text*)
+ .text.deregister_tm_clones
+                0x0800010c       0x1c D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtbegin.o
+ .text.register_tm_clones
+                0x08000128       0x24 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtbegin.o
+ .text.__do_global_dtors_aux
+                0x0800014c       0x28 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtbegin.o
+ .text.frame_dummy
+                0x08000174       0x24 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtbegin.o
+ .text.__libc_init_array
+                0x08000198       0x48 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-init.o)
+                0x08000198                __libc_init_array
+ .text.Reset_Handler
+                0x080001e0       0x48 CMakeFiles/spi_project.dir/libraries/startup_stm32f103c8tx.s.obj
+                0x080001e0                Reset_Handler
+ .text.Default_Handler
+                0x08000228        0x2 CMakeFiles/spi_project.dir/libraries/startup_stm32f103c8tx.s.obj
+                0x08000228                RTC_Alarm_IRQHandler
+                0x08000228                EXTI2_IRQHandler
+                0x08000228                DebugMon_Handler
+                0x08000228                TIM1_CC_IRQHandler
+                0x08000228                HardFault_Handler
+                0x08000228                SysTick_Handler
+                0x08000228                PVD_IRQHandler
+                0x08000228                PendSV_Handler
+                0x08000228                NMI_Handler
+                0x08000228                EXTI3_IRQHandler
+                0x08000228                EXTI0_IRQHandler
+                0x08000228                I2C2_EV_IRQHandler
+                0x08000228                UsageFault_Handler
+                0x08000228                ADC1_2_IRQHandler
+                0x08000228                SPI1_IRQHandler
+                0x08000228                TAMPER_IRQHandler
+                0x08000228                DMA1_Channel4_IRQHandler
+                0x08000228                USART3_IRQHandler
+                0x08000228                RTC_IRQHandler
+                0x08000228                DMA1_Channel7_IRQHandler
+                0x08000228                CAN1_RX1_IRQHandler
+                0x08000228                TIM4_IRQHandler
+                0x08000228                I2C1_EV_IRQHandler
+                0x08000228                DMA1_Channel6_IRQHandler
+                0x08000228                TIM3_IRQHandler
+                0x08000228                RCC_IRQHandler
+                0x08000228                TIM1_TRG_COM_IRQHandler
+                0x08000228                DMA1_Channel1_IRQHandler
+                0x08000228                Default_Handler
+                0x08000228                EXTI15_10_IRQHandler
+                0x08000228                EXTI9_5_IRQHandler
+                0x08000228                SPI2_IRQHandler
+                0x08000228                MemManage_Handler
+                0x08000228                SVC_Handler
+                0x08000228                DMA1_Channel5_IRQHandler
+                0x08000228                EXTI4_IRQHandler
+                0x08000228                USB_LP_CAN1_RX0_IRQHandler
+                0x08000228                USB_HP_CAN1_TX_IRQHandler
+                0x08000228                DMA1_Channel3_IRQHandler
+                0x08000228                TIM1_UP_IRQHandler
+                0x08000228                WWDG_IRQHandler
+                0x08000228                TIM2_IRQHandler
+                0x08000228                TIM1_BRK_IRQHandler
+                0x08000228                EXTI1_IRQHandler
+                0x08000228                USART2_IRQHandler
+                0x08000228                I2C2_ER_IRQHandler
+                0x08000228                DMA1_Channel2_IRQHandler
+                0x08000228                CAN1_SCE_IRQHandler
+                0x08000228                FLASH_IRQHandler
+                0x08000228                BusFault_Handler
+                0x08000228                USART1_IRQHandler
+                0x08000228                I2C1_ER_IRQHandler
+                0x08000228                USBWakeUp_IRQHandler
+ .text.main     0x0800022a       0x4a CMakeFiles/spi_project.dir/main.c.obj
+                0x0800022a                main
+ .text.Delay    0x08000274       0x2e CMakeFiles/spi_project.dir/main.c.obj
+                0x08000274                Delay
+ *fill*         0x080002a2        0x2 
+ .text.EnableClocking
+                0x080002a4       0x34 CMakeFiles/spi_project.dir/main.c.obj
+                0x080002a4                EnableClocking
+ .text.GpioInit
+                0x080002d8       0x80 CMakeFiles/spi_project.dir/main.c.obj
+                0x080002d8                GpioInit
+ .text.SpiInit  0x08000358       0x4c CMakeFiles/spi_project.dir/main.c.obj
+                0x08000358                SpiInit
+ .text.SpiEnable
+                0x080003a4       0x1c CMakeFiles/spi_project.dir/main.c.obj
+                0x080003a4                SpiEnable
+ .text.SelectBmp280
+                0x080003c0       0x1c CMakeFiles/spi_project.dir/main.c.obj
+                0x080003c0                SelectBmp280
+ .text.DeSelectBmp280
+                0x080003dc       0x1c CMakeFiles/spi_project.dir/main.c.obj
+                0x080003dc                DeSelectBmp280
+ .text.ClearOverunFlag
+                0x080003f8       0x34 CMakeFiles/spi_project.dir/main.c.obj
+                0x080003f8                ClearOverunFlag
+ .text.SpiSelectRegister
+                0x0800042c       0x30 CMakeFiles/spi_project.dir/main.c.obj
+                0x0800042c                SpiSelectRegister
+ .text.SpiReciveData
+                0x0800045c       0x38 CMakeFiles/spi_project.dir/main.c.obj
+                0x0800045c                SpiReciveData
+ .text.Bmp280WriteDataToRegister
+                0x08000494       0x36 CMakeFiles/spi_project.dir/main.c.obj
+                0x08000494                Bmp280WriteDataToRegister
+ .text.Bmp280ReadDataFromRegister
+                0x080004ca       0x32 CMakeFiles/spi_project.dir/main.c.obj
+                0x080004ca                Bmp280ReadDataFromRegister
+ .text.Bmp280Config
+                0x080004fc       0x14 CMakeFiles/spi_project.dir/main.c.obj
+                0x080004fc                Bmp280Config
+ .text.Bmp280Reset
+                0x08000510       0x18 CMakeFiles/spi_project.dir/main.c.obj
+                0x08000510                Bmp280Reset
+ .text.Bmp280SetСtrlMeas
+                0x08000528       0x10 CMakeFiles/spi_project.dir/main.c.obj
+                0x08000528                Bmp280SetСtrlMeas
+ .text.Bmp280SetConfig
+                0x08000538       0x10 CMakeFiles/spi_project.dir/main.c.obj
+                0x08000538                Bmp280SetConfig
+ .text.Bmp280ReadCompensationData
+                0x08000548       0x10 CMakeFiles/spi_project.dir/main.c.obj
+                0x08000548                Bmp280ReadCompensationData
+ .text.Bmp280ReadCompensationTemperature
+                0x08000558       0x94 CMakeFiles/spi_project.dir/main.c.obj
+                0x08000558                Bmp280ReadCompensationTemperature
+ .text.Bmp280ReadCompensationPressure
+                0x080005ec      0x19c CMakeFiles/spi_project.dir/main.c.obj
+                0x080005ec                Bmp280ReadCompensationPressure
+ .text.Bmp280ReadData
+                0x08000788       0x70 CMakeFiles/spi_project.dir/main.c.obj
+                0x08000788                Bmp280ReadData
+ .text.Bmp280ReadTemperature
+                0x080007f8       0x42 CMakeFiles/spi_project.dir/main.c.obj
+                0x080007f8                Bmp280ReadTemperature
+ .text.Bmp280ReadPressure
+                0x0800083a       0x42 CMakeFiles/spi_project.dir/main.c.obj
+                0x0800083a                Bmp280ReadPressure
+ .text.Bmp280CompensateTemperatureInteger32
+                0x0800087c       0x80 CMakeFiles/spi_project.dir/main.c.obj
+                0x0800087c                Bmp280CompensateTemperatureInteger32
+ .text.Bmp280CompensatePressureInteger32
+                0x080008fc      0x468 CMakeFiles/spi_project.dir/main.c.obj
+                0x080008fc                Bmp280CompensatePressureInteger32
+ .text.SystemInit
+                0x08000d64       0x68 CMakeFiles/spi_project.dir/libraries/main_library/system_stm32f1xx.c.obj
+                0x08000d64                SystemInit
+ *(.glue_7)
+ .glue_7        0x08000dcc        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x08000dcc        0x0 linker stubs
+ *(.eh_frame)
+ .eh_frame      0x08000dcc        0x0 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtbegin.o
+ *(.init)
+ .init          0x08000dcc        0x4 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crti.o
+                0x08000dcc                _init
+ .init          0x08000dd0        0x8 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtn.o
+ *(.fini)
+ .fini          0x08000dd8        0x4 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crti.o
+                0x08000dd8                _fini
+ .fini          0x08000ddc        0x8 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtn.o
+                0x08000de4                        . = ALIGN (0x4)
+                0x08000de4                        _etext = .
+
+.vfp11_veneer   0x08000de4        0x0
+ .vfp11_veneer  0x08000de4        0x0 linker stubs
+
+.v4_bx          0x08000de4        0x0
+ .v4_bx         0x08000de4        0x0 linker stubs
+
+.iplt           0x08000de4        0x0
+ .iplt          0x08000de4        0x0 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtbegin.o
+
+.rodata         0x08000de4        0x0
+                0x08000de4                        . = ALIGN (0x4)
+ *(.rodata)
+ *(.rodata*)
+                0x08000de4                        . = ALIGN (0x4)
+
+.ARM.extab      0x08000de4        0x0
+                0x08000de4                        . = ALIGN (0x4)
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x08000de4                        . = ALIGN (0x4)
+
+.ARM            0x08000de4        0x0
+                0x08000de4                        . = ALIGN (0x4)
+                0x08000de4                        __exidx_start = .
+ *(.ARM.exidx*)
+                0x08000de4                        __exidx_end = .
+                0x08000de4                        . = ALIGN (0x4)
+
+.preinit_array  0x08000de4        0x0
+                0x08000de4                        . = ALIGN (0x4)
+                0x08000de4                        PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x08000de4                        PROVIDE (__preinit_array_end = .)
+                0x08000de4                        . = ALIGN (0x4)
+
+.init_array     0x08000de4        0x4
+                0x08000de4                        . = ALIGN (0x4)
+                0x08000de4                        PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array*)
+ .init_array    0x08000de4        0x4 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtbegin.o
+                0x08000de8                        PROVIDE (__init_array_end = .)
+                0x08000de8                        . = ALIGN (0x4)
+
+.fini_array     0x08000de8        0x4
+                0x08000de8                        . = ALIGN (0x4)
+                [!provide]                        PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x08000de8        0x4 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtbegin.o
+                [!provide]                        PROVIDE (__fini_array_end = .)
+                0x08000dec                        . = ALIGN (0x4)
+                0x08000dec                        _sidata = LOADADDR (.data)
+
+.rel.dyn        0x08000dec        0x0
+ .rel.iplt      0x08000dec        0x0 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtbegin.o
+
+.data           0x20000000        0x0 load address 0x08000dec
+                0x20000000                        . = ALIGN (0x4)
+                0x20000000                        _sdata = .
+ *(.data)
+ *(.data*)
+ *(.RamFunc)
+ *(.RamFunc*)
+                0x20000000                        . = ALIGN (0x4)
+                0x20000000                        _edata = .
+
+.tm_clone_table
+                0x20000000        0x0 load address 0x08000dec
+ .tm_clone_table
+                0x20000000        0x0 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtbegin.o
+ .tm_clone_table
+                0x20000000        0x0 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtend.o
+
+.igot.plt       0x20000000        0x0 load address 0x08000dec
+ .igot.plt      0x20000000        0x0 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtbegin.o
+                0x20000000                        . = ALIGN (0x4)
+
+.bss            0x20000000       0x38 load address 0x08000dec
+                0x20000000                        _sbss = .
+                0x20000000                        __bss_start__ = _sbss
+ *(.bss)
+ *(.bss*)
+ .bss.completed.1
+                0x20000000        0x1 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtbegin.o
+ *fill*         0x20000001        0x3 
+ .bss.object.0  0x20000004       0x18 D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtbegin.o
+ .bss.G_DIG_T1  0x2000001c        0x2 CMakeFiles/spi_project.dir/main.c.obj
+                0x2000001c                G_DIG_T1
+ .bss.G_DIG_P1  0x2000001e        0x2 CMakeFiles/spi_project.dir/main.c.obj
+                0x2000001e                G_DIG_P1
+ .bss.G_DIG_T2  0x20000020        0x2 CMakeFiles/spi_project.dir/main.c.obj
+                0x20000020                G_DIG_T2
+ .bss.G_DIG_T3  0x20000022        0x2 CMakeFiles/spi_project.dir/main.c.obj
+                0x20000022                G_DIG_T3
+ .bss.G_DIG_P2  0x20000024        0x2 CMakeFiles/spi_project.dir/main.c.obj
+                0x20000024                G_DIG_P2
+ .bss.G_DIG_P3  0x20000026        0x2 CMakeFiles/spi_project.dir/main.c.obj
+                0x20000026                G_DIG_P3
+ .bss.G_DIG_P4  0x20000028        0x2 CMakeFiles/spi_project.dir/main.c.obj
+                0x20000028                G_DIG_P4
+ .bss.G_DIG_P5  0x2000002a        0x2 CMakeFiles/spi_project.dir/main.c.obj
+                0x2000002a                G_DIG_P5
+ .bss.G_DIG_P6  0x2000002c        0x2 CMakeFiles/spi_project.dir/main.c.obj
+                0x2000002c                G_DIG_P6
+ .bss.G_DIG_P7  0x2000002e        0x2 CMakeFiles/spi_project.dir/main.c.obj
+                0x2000002e                G_DIG_P7
+ .bss.G_DIG_P8  0x20000030        0x2 CMakeFiles/spi_project.dir/main.c.obj
+                0x20000030                G_DIG_P8
+ .bss.G_DIG_P9  0x20000032        0x2 CMakeFiles/spi_project.dir/main.c.obj
+                0x20000032                G_DIG_P9
+ .bss.G_T_FINE  0x20000034        0x4 CMakeFiles/spi_project.dir/main.c.obj
+                0x20000034                G_T_FINE
+ *(COMMON)
+                0x20000038                        . = ALIGN (0x4)
+                0x20000038                        _ebss = .
+                0x20000038                        __bss_end__ = _ebss
+
+._user_heap_stack
+                0x20000038      0x600 load address 0x08000dec
+                0x20000038                        . = ALIGN (0x8)
+                [!provide]                        PROVIDE (end = .)
+                0x20000038                        PROVIDE (_end = .)
+                0x20000238                        . = (. + _Min_Heap_Size)
+ *fill*         0x20000038      0x200 
+                0x20000638                        . = (. + _Min_Stack_Size)
+ *fill*         0x20000238      0x400 
+                0x20000638                        . = ALIGN (0x8)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.ARM.attributes
+                0x00000000       0x2a
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x1e D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crti.o
+ .ARM.attributes
+                0x0000001e       0x2e D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtbegin.o
+ .ARM.attributes
+                0x0000004c       0x2e D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-init.o)
+ .ARM.attributes
+                0x0000007a       0x21 CMakeFiles/spi_project.dir/libraries/startup_stm32f103c8tx.s.obj
+ .ARM.attributes
+                0x0000009b       0x2e CMakeFiles/spi_project.dir/main.c.obj
+ .ARM.attributes
+                0x000000c9       0x2e CMakeFiles/spi_project.dir/libraries/main_library/system_stm32f1xx.c.obj
+ .ARM.attributes
+                0x000000f7       0x2e D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtend.o
+ .ARM.attributes
+                0x00000125       0x1e D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtn.o
+OUTPUT(spi_project.elf elf32-littlearm)
+LOAD linker stubs
+LOAD D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc.a
+LOAD D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libm.a
+LOAD D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a
+
+.debug_frame    0x00000000      0x40c
+ .debug_frame   0x00000000       0x2c D:/data/direction_in_my_life/information_technology/c_embedded/studying/tools/arm-mingw-13.3/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc_nano.a(libc_a-init.o)
+ .debug_frame   0x0000002c      0x388 CMakeFiles/spi_project.dir/main.c.obj
+ .debug_frame   0x000003b4       0x58 CMakeFiles/spi_project.dir/libraries/main_library/system_stm32f1xx.c.obj
+
+.debug_line     0x00000000      0xeeb
+ .debug_line    0x00000000       0x78 CMakeFiles/spi_project.dir/libraries/startup_stm32f103c8tx.s.obj
+ .debug_line    0x00000078      0xa32 CMakeFiles/spi_project.dir/main.c.obj
+ .debug_line    0x00000aaa      0x441 CMakeFiles/spi_project.dir/libraries/main_library/system_stm32f1xx.c.obj
+
+.debug_line_str
+                0x00000000       0x74
+ .debug_line_str
+                0x00000000       0x74 CMakeFiles/spi_project.dir/libraries/startup_stm32f103c8tx.s.obj
+
+.debug_info     0x00000000      0xb50
+ .debug_info    0x00000000       0x30 CMakeFiles/spi_project.dir/libraries/startup_stm32f103c8tx.s.obj
+ .debug_info    0x00000030      0x73a CMakeFiles/spi_project.dir/main.c.obj
+ .debug_info    0x0000076a      0x3e6 CMakeFiles/spi_project.dir/libraries/main_library/system_stm32f1xx.c.obj
+
+.debug_abbrev   0x00000000      0x34f
+ .debug_abbrev  0x00000000       0x24 CMakeFiles/spi_project.dir/libraries/startup_stm32f103c8tx.s.obj
+ .debug_abbrev  0x00000024      0x1ee CMakeFiles/spi_project.dir/main.c.obj
+ .debug_abbrev  0x00000212      0x13d CMakeFiles/spi_project.dir/libraries/main_library/system_stm32f1xx.c.obj
+
+.debug_aranges  0x00000000      0x138
+ .debug_aranges
+                0x00000000       0x28 CMakeFiles/spi_project.dir/libraries/startup_stm32f103c8tx.s.obj
+ .debug_aranges
+                0x00000028       0xe8 CMakeFiles/spi_project.dir/main.c.obj
+ .debug_aranges
+                0x00000110       0x28 CMakeFiles/spi_project.dir/libraries/main_library/system_stm32f1xx.c.obj
+
+.debug_str      0x00000000    0x58974
+ .debug_str     0x00000000    0x58974 CMakeFiles/spi_project.dir/libraries/startup_stm32f103c8tx.s.obj
+                                 0x90 (size before relaxing)
+ .debug_str     0x00058974    0x58801 CMakeFiles/spi_project.dir/main.c.obj
+ .debug_str     0x00058974    0x54838 CMakeFiles/spi_project.dir/libraries/main_library/system_stm32f1xx.c.obj
+
+.debug_rnglists
+                0x00000000       0xe1
+ .debug_rnglists
+                0x00000000       0x19 CMakeFiles/spi_project.dir/libraries/startup_stm32f103c8tx.s.obj
+ .debug_rnglists
+                0x00000019       0xae CMakeFiles/spi_project.dir/main.c.obj
+ .debug_rnglists
+                0x000000c7       0x1a CMakeFiles/spi_project.dir/libraries/main_library/system_stm32f1xx.c.obj
+
+.debug_macro    0x00000000    0x10df6
+ .debug_macro   0x00000000      0x19c CMakeFiles/spi_project.dir/main.c.obj
+ .debug_macro   0x0000019c      0xacc CMakeFiles/spi_project.dir/main.c.obj
+ .debug_macro   0x00000c68       0x22 CMakeFiles/spi_project.dir/main.c.obj
+ .debug_macro   0x00000c8a       0x22 CMakeFiles/spi_project.dir/main.c.obj
+ .debug_macro   0x00000cac       0x5b CMakeFiles/spi_project.dir/main.c.obj
+ .debug_macro   0x00000d07       0x24 CMakeFiles/spi_project.dir/main.c.obj
+ .debug_macro   0x00000d2b       0x94 CMakeFiles/spi_project.dir/main.c.obj
+ .debug_macro   0x00000dbf       0x43 CMakeFiles/spi_project.dir/main.c.obj
+ .debug_macro   0x00000e02       0x34 CMakeFiles/spi_project.dir/main.c.obj
+ .debug_macro   0x00000e36       0x16 CMakeFiles/spi_project.dir/main.c.obj
+ .debug_macro   0x00000e4c       0x57 CMakeFiles/spi_project.dir/main.c.obj
+ .debug_macro   0x00000ea3       0x9e CMakeFiles/spi_project.dir/main.c.obj
+ .debug_macro   0x00000f41      0x370 CMakeFiles/spi_project.dir/main.c.obj
+ .debug_macro   0x000012b1      0x112 CMakeFiles/spi_project.dir/main.c.obj
+ .debug_macro   0x000013c3       0x10 CMakeFiles/spi_project.dir/main.c.obj
+ .debug_macro   0x000013d3       0x16 CMakeFiles/spi_project.dir/main.c.obj
+ .debug_macro   0x000013e9       0x4a CMakeFiles/spi_project.dir/main.c.obj
+ .debug_macro   0x00001433       0x34 CMakeFiles/spi_project.dir/main.c.obj
+ .debug_macro   0x00001467       0x10 CMakeFiles/spi_project.dir/main.c.obj
+ .debug_macro   0x00001477       0x58 CMakeFiles/spi_project.dir/main.c.obj
+ .debug_macro   0x000014cf       0x8e CMakeFiles/spi_project.dir/main.c.obj
+ .debug_macro   0x0000155d       0x1c CMakeFiles/spi_project.dir/main.c.obj
+ .debug_macro   0x00001579      0x185 CMakeFiles/spi_project.dir/main.c.obj
+ .debug_macro   0x000016fe       0x16 CMakeFiles/spi_project.dir/main.c.obj
+ .debug_macro   0x00001714       0x16 CMakeFiles/spi_project.dir/main.c.obj
+ .debug_macro   0x0000172a      0x146 CMakeFiles/spi_project.dir/main.c.obj
+ .debug_macro   0x00001870       0x22 CMakeFiles/spi_project.dir/main.c.obj
+ .debug_macro   0x00001892      0x103 CMakeFiles/spi_project.dir/main.c.obj
+ .debug_macro   0x00001995       0x6a CMakeFiles/spi_project.dir/main.c.obj
+ .debug_macro   0x000019ff      0x1df CMakeFiles/spi_project.dir/main.c.obj
+ .debug_macro   0x00001bde       0x1c CMakeFiles/spi_project.dir/main.c.obj
+ .debug_macro   0x00001bfa       0x22 CMakeFiles/spi_project.dir/main.c.obj
+ .debug_macro   0x00001c1c       0xfb CMakeFiles/spi_project.dir/main.c.obj
+ .debug_macro   0x00001d17      0xd23 CMakeFiles/spi_project.dir/main.c.obj
+ .debug_macro   0x00002a3a     0xe09e CMakeFiles/spi_project.dir/main.c.obj
+ .debug_macro   0x00010ad8      0x100 CMakeFiles/spi_project.dir/main.c.obj
+ .debug_macro   0x00010bd8       0xce CMakeFiles/spi_project.dir/libraries/main_library/system_stm32f1xx.c.obj
+ .debug_macro   0x00010ca6       0x2e CMakeFiles/spi_project.dir/libraries/main_library/system_stm32f1xx.c.obj
+ .debug_macro   0x00010cd4       0x8e CMakeFiles/spi_project.dir/libraries/main_library/system_stm32f1xx.c.obj
+ .debug_macro   0x00010d62       0x51 CMakeFiles/spi_project.dir/libraries/main_library/system_stm32f1xx.c.obj
+ .debug_macro   0x00010db3       0x43 CMakeFiles/spi_project.dir/libraries/main_library/system_stm32f1xx.c.obj
+
+.comment        0x00000000       0x45
+ .comment       0x00000000       0x45 CMakeFiles/spi_project.dir/main.c.obj
+                                 0x46 (size before relaxing)
+ .comment       0x00000045       0x46 CMakeFiles/spi_project.dir/libraries/main_library/system_stm32f1xx.c.obj

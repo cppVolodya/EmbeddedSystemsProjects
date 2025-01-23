@@ -1,0 +1,3 @@
+C:/Users/doroz/Desktop/adc_project/build/debug/CMakeFiles/adc_project.dir
+C:/Users/doroz/Desktop/adc_project/build/debug/CMakeFiles/edit_cache.dir
+C:/Users/doroz/Desktop/adc_project/build/debug/CMakeFiles/rebuild_cache.dir

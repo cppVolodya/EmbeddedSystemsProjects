@@ -1,0 +1,4 @@
+# ignore directories
+.idea/
+build/
+config_openocd/

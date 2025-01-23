@@ -1,0 +1,54 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <Objective-C>
+      <option name="INDENT_NAMESPACE_MEMBERS" value="0" />
+      <option name="KEEP_STRUCTURES_IN_ONE_LINE" value="true" />
+      <option name="NAMESPACE_BRACE_PLACEMENT" value="2" />
+      <option name="METHOD_BRACE_PLACEMENT" value="2" />
+      <option name="FUNCTION_BRACE_PLACEMENT" value="2" />
+      <option name="BLOCK_BRACE_PLACEMENT" value="2" />
+      <option name="FUNCTION_NON_TOP_AFTER_RETURN_TYPE_WRAP" value="0" />
+      <option name="FUNCTION_TOP_AFTER_RETURN_TYPE_WRAP" value="0" />
+      <option name="FUNCTION_PARAMETERS_WRAP" value="5" />
+      <option name="FUNCTION_CALL_ARGUMENTS_WRAP" value="5" />
+      <option name="TEMPLATE_CALL_ARGUMENTS_WRAP" value="5" />
+      <option name="TEMPLATE_CALL_ARGUMENTS_ALIGN_MULTILINE" value="true" />
+      <option name="CLASS_CONSTRUCTOR_INIT_LIST_NEW_LINE_BEFORE_COLON" value="1" />
+      <option name="ALIGN_INIT_LIST_IN_COLUMNS" value="false" />
+      <option name="SPACE_BEFORE_SUPERCLASS_COLON" value="false" />
+      <option name="SPACE_BEFORE_PROTOCOLS_BRACKETS" value="false" />
+      <option name="SPACE_BEFORE_COLON_IN_FOREACH" value="true" />
+      <option name="KEEP_BLANK_LINES_BEFORE_END" value="1" />
+      <option name="HEADER_GUARD_STYLE_PATTERN" value="${FILE_NAME}_${EXT}" />
+    </Objective-C>
+    <RiderCodeStyleSettings>
+      <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
+      <option name="/Default/CodeStyle/CodeFormatting/CppFormatting/INDENT_STYLE/@EntryValue" />
+      <option name="/Default/CodeStyle/CodeFormatting/CppClangFormat/EnableClangFormatSupport/@EntryValue" value="true" type="bool" />
+      <option name="/Default/CodeStyle/CodeFormatting/CppFormatting/ALLOW_FAR_ALIGNMENT/@EntryValue" />
+    </RiderCodeStyleSettings>
+    <clangFormatSettings>
+      <option name="ENABLED" value="true" />
+    </clangFormatSettings>
+    <files>
+      <extensions>
+        <pair source="cpp" header="hpp" fileNamingConvention="PASCAL_CASE" />
+        <pair source="c" header="h" fileNamingConvention="NONE" />
+        <pair source="cu" header="cuh" fileNamingConvention="NONE" />
+        <pair source="ixx" header="" fileNamingConvention="NONE" />
+        <pair source="mxx" header="" fileNamingConvention="NONE" />
+        <pair source="cppm" header="" fileNamingConvention="NONE" />
+        <pair source="ccm" header="" fileNamingConvention="NONE" />
+        <pair source="cxxm" header="" fileNamingConvention="NONE" />
+        <pair source="c++m" header="" fileNamingConvention="NONE" />
+      </extensions>
+    </files>
+    <codeStyleSettings language="ObjectiveC">
+      <indentOptions>
+        <option name="CONTINUATION_INDENT_SIZE" value="4" />
+        <option name="USE_TAB_CHARACTER" value="true" />
+        <option name="LABEL_INDENT_SIZE" value="-4" />
+      </indentOptions>
+    </codeStyleSettings>
+  </code_scheme>
+</component>

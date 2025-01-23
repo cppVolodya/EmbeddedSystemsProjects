@@ -1,0 +1,3 @@
+C:/Users/doroz/Desktop/spi_project/build/debug/CMakeFiles/spi_project.dir
+C:/Users/doroz/Desktop/spi_project/build/debug/CMakeFiles/edit_cache.dir
+C:/Users/doroz/Desktop/spi_project/build/debug/CMakeFiles/rebuild_cache.dir
